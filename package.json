@@ -1,0 +1,24 @@
+{
+  "name": "tatsuya.m-zenn-contents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siryu2667/tatsuya.m-zenn-contents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siryu2667/tatsuya.m-zenn-contents/issues"
+  },
+  "homepage": "https://github.com/siryu2667/tatsuya.m-zenn-contents#readme",
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  },
+  "devDependencies": {}
+}

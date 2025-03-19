@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"pasteImage.basePath": "${currentFileDir}/..",
+		"pasteImage.defaultName": "Y-MM-DD-HH-mm-ss",
+		"pasteImage.insertPattern": "${imageSyntaxPrefix}/${imageFilePath}${imageSyntaxSuffix}",
+		"pasteImage.path": "${currentFileDir}/../images/${currentFileNameWithoutExt}"
+	}
+}
